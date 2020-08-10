@@ -1,11 +1,12 @@
 {
   "name": "jlv-pino",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jlv transformer for jlv",
   "main": "src/index",
   "files": [
     "README.md",
-    "/src/index.js"
+    "/src/index.js",
+    ".json-log-viewer"
   ],
   "scripts": {
     "test": "mocha './test/**/**.test.js'",
