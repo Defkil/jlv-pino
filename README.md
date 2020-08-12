@@ -12,7 +12,7 @@
 See for more information [JLV](https://github.com/Defkil/jlv)
 
 ```sh
-npm i jlv-pino -D
+npm i jlv-pino -g
 ```
 
 #### Information for creating custom transformer
