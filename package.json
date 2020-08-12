@@ -1,6 +1,6 @@
 {
   "name": "jlv-pino",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jlv transformer for jlv",
   "main": "src/index",
   "files": [
